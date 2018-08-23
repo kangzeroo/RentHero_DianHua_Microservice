@@ -1,11 +1,10 @@
-# The Ultimate Node Jumpstart
+# Dian Hua Microservice
 Includes the following technologies:
 - NodeJS v6.3.1 LTS
 - ExpressJS with HTTPS
 - RxJS
 - Websockets via Socket.io
 - Dockerized
-- AWS SDK
 
 ## Setup
 $ npm install <br />
